@@ -1,0 +1,4 @@
+#Thu Jul 14 03:40:52 PKT 2022
+base.0=/Users/talhaqureshi/Documents/Talha New Mac Data/Assignment/AwesomeProject/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
